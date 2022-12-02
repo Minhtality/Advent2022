@@ -1,0 +1,22 @@
+{
+  "name": "advent2022",
+  "version": "1.0.0",
+  "description": "Advent Of Code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minhtality/Advent2022.git"
+  },
+  "keywords": [
+    "advent"
+  ],
+  "author": "Minh Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minhtality/Advent2022/issues"
+  },
+  "homepage": "https://github.com/Minhtality/Advent2022#readme"
+}
